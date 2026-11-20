@@ -1,0 +1,4 @@
+# Public portfolio: track only the reviewed files listed below.
+*
+!/.gitignore
+!/README.md
